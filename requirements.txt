@@ -1,0 +1,4 @@
+PyMuPDF==1.23.0  # fitz is part of PyMuPDF
+anthropic==0.3.0  # Version depends on what you're using, adjust if necessary
+pandas==2.1.0  # For DataFrame and Excel file handling
+python-dotenv==1.0.0  # To load environment variables from .env file
